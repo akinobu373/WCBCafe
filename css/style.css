@@ -191,13 +191,13 @@ aside p{
 /* モバイル版------------------ */
 @media(max-width:600px){
   .page-title{
-    font-size: 10rem;
+    font-size: 2.5rem;
   }
 
   /* HEADER */
   .main-nav{
-    font-size: 5rem;
-    margin-top:20px;
+    font-size: 1rem;
+    margin-top:10px;
   }
   .main-nav li{
     margin:0 20px;
